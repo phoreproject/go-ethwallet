@@ -2,9 +2,9 @@
 ![banner](https://i.imgur.com/iOnXDXK.png)
 OpenBazaar Ethereum Wallet in Go
 
-[![Build Status](https://travis-ci.org/OpenBazaar/go-ethwallet.svg?branch=master)](https://travis-ci.org/OpenBazaar/go-ethwallet)
-[![Coverage Status](https://coveralls.io/repos/github/OpenBazaar/go-ethwallet/badge.svg?branch=master)](https://coveralls.io/github/OpenBazaar/go-ethwallet?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/github.com/OpenBazaar/go-ethwallet)](https://goreportcard.com/report/github.com/OpenBazaar/go-ethwallet)
+[![Build Status](https://travis-ci.org/phoreproject/go-ethwallet.svg?branch=master)](https://travis-ci.org/phoreproject/go-ethwallet)
+[![Coverage Status](https://coveralls.io/repos/github/phoreproject/go-ethwallet/badge.svg?branch=master)](https://coveralls.io/github/phoreproject/go-ethwallet?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/phoreproject/go-ethwallet)](https://goreportcard.com/report/github.com/phoreproject/go-ethwallet)
 
 
 This is an Ethereum wallet implementation which uses the Infura API.

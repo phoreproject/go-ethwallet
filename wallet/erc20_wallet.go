@@ -10,23 +10,23 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/OpenBazaar/multiwallet/config"
 	wi "github.com/OpenBazaar/wallet-interface"
 	"github.com/btcsuite/btcd/chaincfg"
 	"github.com/btcsuite/btcd/chaincfg/chainhash"
 	"github.com/btcsuite/btcutil"
 	hd "github.com/btcsuite/btcutil/hdkeychain"
 	"github.com/davecgh/go-spew/spew"
-	ethereum "github.com/ethereum/go-ethereum"
+	"github.com/ethereum/go-ethereum"
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/ethclient"
+	"github.com/phoreproject/multiwallet/config"
 	"golang.org/x/net/proxy"
 
-	"github.com/OpenBazaar/go-ethwallet/util"
+	"github.com/phoreproject/go-ethwallet/util"
 )
 
 // ERC20Wallet is the wallet implementation for ethereum

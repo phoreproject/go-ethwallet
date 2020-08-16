@@ -20,7 +20,6 @@ import (
 	"strings"
 	"time"
 
-	"github.com/OpenBazaar/multiwallet/config"
 	wi "github.com/OpenBazaar/wallet-interface"
 	"github.com/btcsuite/btcd/chaincfg"
 	"github.com/btcsuite/btcd/chaincfg/chainhash"
@@ -34,10 +33,11 @@ import (
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/nanmu42/etherscan-api"
 	"github.com/op/go-logging"
+	"github.com/phoreproject/multiwallet/config"
 	"golang.org/x/net/proxy"
 	"gopkg.in/yaml.v2"
 
-	"github.com/OpenBazaar/go-ethwallet/util"
+	"github.com/phoreproject/go-ethwallet/util"
 	ut "github.com/OpenBazaar/openbazaar-go/util"
 )
 

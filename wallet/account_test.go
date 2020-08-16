@@ -6,7 +6,7 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/OpenBazaar/go-ethwallet/util"
+	"github.com/phoreproject/go-ethwallet/util"
 )
 
 const (

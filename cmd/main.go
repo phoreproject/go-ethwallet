@@ -12,7 +12,7 @@ import (
 	_ "github.com/joho/godotenv/autoload"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/OpenBazaar/go-ethwallet/wallet"
+	"github.com/phoreproject/go-ethwallet/wallet"
 )
 
 var (

@@ -22,7 +22,7 @@ import (
 	"github.com/hunterlong/tokenbalance"
 	"github.com/nanmu42/etherscan-api"
 
-	"github.com/OpenBazaar/go-ethwallet/util"
+	"github.com/phoreproject/go-ethwallet/util"
 )
 
 /*
